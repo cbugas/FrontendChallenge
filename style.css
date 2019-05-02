@@ -1,4 +1,11 @@
 
+body {
+position: relative;
+width: 414px;
+height: 736px;
+background: #FFFFFF;
+}
+
 .isobar {
 position: absolute;
 width: 414px;
